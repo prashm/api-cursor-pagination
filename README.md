@@ -1,7 +1,6 @@
 # ApiCursorPagination
 
 [![Gem Version](https://badge.fury.io/rb/api_cursor_pagination.svg)](https://badge.fury.io/rb/api_cursor_pagination)
-[![Build Status](https://github.com/prashm/api_cursor_pagination/workflows/CI/badge.svg)](https://github.com/prashm/api_cursor_pagination/actions)
 
 A Rails concern that implements cursor-based pagination for APIs, following the [JSON:API cursor pagination profile](https://jsonapi.org/profiles/ethanresnick/cursor-pagination/).
 
